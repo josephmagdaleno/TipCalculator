@@ -1,9 +1,9 @@
 # Joeys TipCalculator
 
-#Description
+# Description
 Javascript application to calculate tips
 
-#Details
+# Details
 This application was made for personal use.
 It solves the problem everyone runs into, how much gradituity%?
 One thing I learned from this project is that I am not tipping enough!
