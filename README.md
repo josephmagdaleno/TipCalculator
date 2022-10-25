@@ -1,5 +1,5 @@
 # Joeys TipCalculator
-
+https://josephmagdaleno.github.io/TipCalculator/
 # Description
 Javascript application to calculate tips
 
